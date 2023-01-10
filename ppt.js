@@ -10,7 +10,7 @@ let usercontador = 0;
 let machinecontador = 0;
 
 
-/* dar a cada imagen un valor numerico  dsadsadsad */
+/* dar a cada imagen un valor numerico  */
 
 const rockbtn = document.getElementById("rock");
 const paperbtn = document.getElementById("paper");
